@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Maitree');
+
+body{
+  font-family: 'Maitree',serif;
+}
+h1{
+  font-size: 36px;
+  letter-spacing: 2px;
+  line-height: 1;
+  color: #2a2a2a;
+}
+h4{
+  font-size: 20px;
+  line-height: 2;
+}
+p{
+  font-size: 16px;
+  line-height: 2;
+  color: #4d4d4d;
+  letter-spacing: 0.85px;
+}
+.font-en{
+  font-family: 'Josefin Sans',sans-serif !important;
+}
+.hr-black{
+  width: 10%;
+  border-top: 2px solid #2a2a2a;
+}
+.hr-green{
+  margin-top: -10px;
+  margin-bottom: 10px;
+  border-top: 1px solid #28C3AB;
+}
+.hr-orange{
+  width: 10%;
+  border-top: 2px solid #F5A31C;
+}
+.section-1 {
+  height: 500px;
+  background: url(https://picsum.photos/1440/500) no-repeat top center scroll;
+  background-color: aqua;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-attachment: fixed;
+}
+.section-2{
+  margin-top: -50px;
+  padding: 100px 50px;
+}
+.section-3{
+  padding: 80px 10px;
+  background-color: #FFFFFF;
+}
+.section-4,
+.section-5,
+.section-7 {
+  padding: 80px 30px;
+}
+.section-6 {
+  margin-top: -50px;
+  padding: 0px 50px 100px;
+}
+.img-logo>img{
+  width: 10%;
+  margin-left: 20px;
+}
+.backgrand-concave-orange {
+  background: url(bg-shape.png) no-repeat top center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  padding-bottom: 230px;
+}
+.backgrand-concave-black {
+  background: url(bg-shape-black.png) no-repeat top center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  padding-bottom: 115px;
+}
+.color-orange{
+  color: #F5A31C;
+}
+.color-green{
+  color: #28C3AB;
+}
+.color-white {
+  color: #FFFFFF;
+}
+.color-black {
+  color: #2a2a2a;
+}
+.font-14{
+  font-size: 14px !important;
+}
+.mt-20{
+  margin-top: 20px;
+}
+.mt-50 {
+  margin-top: 50px;
+}
+.my-5{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.mx-auto{
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-staff{
+  height: 200px;
+  border-radius:5px; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.img-staff-sm{
+  height: 150px;
+  border-radius:5px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.border-r-orange{
+  border-right: 2px solid #F5A31C;
+}
+.border-l-orange {
+  border-left: 1px solid #F5A31C;
+}
+.h-100{
+  height: 100px;
+}
